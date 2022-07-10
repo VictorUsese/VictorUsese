@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictorUsese
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web/Software development
 - 🌱 I’m currently learning javascript and React.js
 - 💞️ I’m looking to collaborate on small sophisticated and bigger projects 
 - 📫 How to reach me victorusese@gmail.com
