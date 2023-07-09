@@ -5,7 +5,7 @@ I'm a young developer who is passionate in several different programming languag
 |             |            |                     |                                 |                         |             |           |
 |:------------|:----------:|:-------------------:|:-------------------------------:|:-----------------------:|:-----------:|----------:|
 | Node        |   Vs Code  |       React         |              MondoDB            | Networking with Threads |
-| Spring-boot | Spring-mvc | Hibernate with CRUD | AOP Aspect oriented programming |          Maven          | RESTful API | Thymeleaf |
+| SQL Database| Node-mvc   | Hibernate with CRUD | Object oriented programming     |          TypeScript     | RESTful API | CI/CD     |
 | HTML        |   HTML5    |                     |
 | CSS         |    CSS3    |                     |
 | JavaScript  |   React    |                     |
