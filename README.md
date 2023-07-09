@@ -34,4 +34,4 @@ I'm a young developer who is passionate in several different programming languag
 ![ReactJs](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/node-%236DB33F.svg?style=for-the-badge&logo=node&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
-![MongoDB](https://img.shields.io/badge/jmongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%23F7DF1)
+![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%23F7DF1)
