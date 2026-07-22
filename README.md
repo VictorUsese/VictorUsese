@@ -1,15 +1,15 @@
 ## Software / Web Developer  
-I'm a young developer who is passionate in several different programming languages, including JavaScript, NodeJs, databases, (MERN Stack) and others. Please feel free to go around my repositories and to enquire about my projects. Recently, some of my projects have been posted to my personal website (https://victor-usese-portfolio.netlify.app/#header). In addition, I possess the capacity to quickly learn a challenging skill.
+I'm a young developer who is passionate in several different programming languages, including JavaScript, NodeJs, databases, (MERN Stack) and others. Please feel free to go around my repositories and to enquire about my projects. Recently, some of my projects have been posted to my personal website (https://victor-usese-portfolio-website.netlify.app/). In addition, I possess the capacity to quickly learn a challenging skill.
  
 ## Skills
 |             |            |                     |                                 |                         |             |           |
 |:------------|:----------:|:-------------------:|:-------------------------------:|:-----------------------:|:-----------:|----------:|
-| Node        |   Vs Code  |       React         |              MondoDB            | Networking with Threads |
+| Node        |   Vs Code  |       ReactJs       |              MongoDB            | Networking with Threads |
 | SQL Database| Node-mvc   | Hibernate with CRUD | Object oriented programming     |          ExpressJS      | RESTful API | CI/CD     |
-| HTML        |   HTML5    |                     |
+| HTML        |   HTML5    |    TypeScript       |
 | CSS         |    CSS3    |                     |
 | JavaScript  |   React    |                     |
-| Netlify     |   Heroku   |       Postman       |
+| Netlify     |   Railway  |       Postman       |
 
 ## 1) A great software is one which makes sure its does what the customers want
 ## 2) Applies basic OO Principles to add flexibility
